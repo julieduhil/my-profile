@@ -1,0 +1,76 @@
+body{
+	background-color: rgb(108, 74, 74);
+	color: rgb(237, 237, 237);
+	font-size: 24px ;
+	font-family: Avenir;
+	text-align:  center;
+	text-decoration : none;
+	font-weight: normal;
+	text-align: justify-all ;
+	border-top: 2px dashed white;
+	border-right: 2px dotted white;
+	border-bottom: 1px dashed white;
+	border-left: 2px dotted white;
+	}
+	
+	img {
+	border-radius: 20%;
+	box-shadow: 0px 10px 10px black;}
+
+.img-bordered{
+border:  5px solid rgb(108, 74, 74);}
+
+	.btn-white {
+		background-color: rgb(108,74,74);
+		color : white;
+		padding: 20px 50px;
+		border-radius: 10px;}
+	.btn-white:hover{
+		background-color: black;
+		color: white;
+	}
+
+	.list-inline{
+		list-style: none;
+		padding-left: 0px
+}
+	.list-inline li {
+		display : inline;
+		padding:  10px;
+	}
+.list-inline i {
+font-size: 70px;
+}
+
+h1 {color: rgb(108, 74, 74);
+	font-size: 60px;
+	font-family: 'Fredericka the Great', cursive;
+	font-weight: lighter;
+	letter-spacing: 10px;}
+
+h2 {color: rgb(200,149,149);
+	font-size: 30px;
+	font-family: 'Zen Kaku Gothic Antique', sans-serif;
+	font-weight: bolder;
+	}
+
+a{text-decoration: none;
+	color : white;
+	font-family: 'Zen Kaku Gothic Antique', sans-serif;}
+
+a:hover {
+	color: rgb(108,74,74);
+}
+
+div {
+	background: rgb(221, 190, 190);
+	padding: 5px;
+	border:  2px solid rgb(237,237,237);
+	margin: 40px;
+	box-shadow: 0px 10px 10px black;
+	border-radius: 15px
+
+}
+
+
+
